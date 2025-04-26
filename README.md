@@ -1,4 +1,4 @@
-## https://github.com/auth0-samples/auth0-react-samples -> sample web login với Auth0
+## https://github.com/auth0-samples/auth0-react-samples -> sample web login with Auth0
 ![preview](https://snipboard.io/knZ274.jpg)
 
 Step 1: git clone https://github.com/auth0-samples/auth0-react-samples
